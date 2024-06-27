@@ -1,5 +1,5 @@
-#PR Type
+# PR Type
 
 # Description
 
-#ETC
+# ETC
